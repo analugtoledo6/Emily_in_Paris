@@ -2,9 +2,9 @@
 
 ## Atelier Lumiere
 
-**Estudante:** [PREENCHER]
+**Estudante:** Ana Luiza Gonsales Gomes de Toledo
 
-**Data:** [PREENCHER]
+**Data:** 11/10/2026
 
 ## Objetivo
 
