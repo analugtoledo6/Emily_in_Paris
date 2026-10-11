@@ -1,0 +1,26 @@
+{
+  "name": "paris-campaign-atelier",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Atelier full-stack para criar campanhas com clima parisiense.",
+  "scripts": {
+    "dev:web": "vite",
+    "dev:api": "node --watch server.mjs",
+    "build": "vite build",
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20 <23"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.9"
+  }
+}
